@@ -4,6 +4,8 @@
 
 ## Install
 
+Check out https://hyper.is if you don't know what it is.
+
 ```bash
 hpm install hyper-name
 ```
