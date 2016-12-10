@@ -1,0 +1,11 @@
+{
+  "name": "hyper-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "egoist/hyper-name",
+  "files": [
+    "index.js",
+    "images"
+  ]
+}
